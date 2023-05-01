@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+img{
+	height:100px;
+	width:100px;
+}
+
+.container-fluid{
+	height:100%;
+	width1:1000px !important;
+}
